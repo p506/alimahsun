@@ -1,2 +1,2 @@
 
-Introduction to GitHub flow
+GITHUB_TOKEN to GitHub flow
